@@ -1,6 +1,6 @@
 # A set of variables that define how we package this repository
 #
-plugin_name=mqtt-sparkplug
+plugin_name=mqtt_sparkplug
 plugin_type=south
 plugin_install_dirname=mqtt-sparkplug
 
